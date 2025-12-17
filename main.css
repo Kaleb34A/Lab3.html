@@ -1,1 +1,54 @@
 
+body {
+    background-color: hsla(303, 85%, 34%, 1);
+}
+
+
+h1 {
+    color: red;               
+    background-color: #000000;     
+    font-size: 36px;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(255, 255, 255);     
+    background-color: hsl(120, 100%, 25%); 
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+h3 {
+    background-color: yellow;  
+    font-style: italic;
+    line-height: 1.8;
+    word-spacing: 6px;
+}
+
+
+p {
+    color: hsl(200, 70%, 40%);
+    font-variant: small-caps;
+}
+
+ul {
+    background-color: hsl(45, 85%, 70%); 
+    letter-spacing: 2px;
+}
+
+ol {
+    color: lightgray;      
+    background-color: hsl(0, 0%, 100%); 
+    letter-spacing: 2px;
+}
+
+
+em {
+    text-transform: uppercase;
+}
+
+
+strong {
+    text-shadow: 2px 2px 4px black;
+}
