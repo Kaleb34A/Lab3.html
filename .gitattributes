@@ -1,2 +1,30 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>CS 103 | Lab 3 Part 1</title>
+        <link rel="stylesheet" type="text/css" href="main.css" />
+    </head>
+
+    <body>
+        <h1>welcome to lab 3</h1>
+        <h2>CSS Colors and Fonts</h2>
+        <h3>Learning CSS Styling</h3>
+
+        <p>
+            This lab introduces <em>CSS styling</em> and how to use <strong>different color formats</strong>
+        </p>
+
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <LI>GitHub</LI>
+        </ul>
+
+        <ol>
+            <li>Open CodePen</li>
+            <li>Add CSS</li>
+            <li>Test in Browser</li>
+        </ol>
+    </body>
+</html>
